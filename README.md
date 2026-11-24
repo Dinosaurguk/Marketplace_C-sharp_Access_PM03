@@ -50,7 +50,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/Dinosaurguk/Marketplace_C-sharp_Access_PM03
    ```
 2. Откройте решение `Vulpes0.sln` (или `Vulpes0.slnx`) в **Visual Studio**.
 3. Убедитесь, что файл базы данных `Маркетплейс.accdb` находится в выходной директории сборки (`bin\Debug` или `bin\x64\Debug`).
